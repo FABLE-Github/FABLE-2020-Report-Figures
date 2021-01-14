@@ -1,17 +1,6 @@
 # FABLE-2020-Report-Figures
 FABLE 2020 Report Figures
 
-Readme associated with Master.R, fct_Figure1.R, fct_Figure2.R, fct_Figure3.R, fct_Figure4.R, fct_Figure5.R, fct_Figure6.R, 
-fct_Figure7.R, fct_Figure7_PieDonutFABLE.R, fct_Figure8.R, fct_Figure9.R, fct_Figure10.R.
-
-by
-
-Clara Douzal, UN Sustainable Development Solutions Network
-
-clara.douzal@unsdsn.org
-
-14th January 2021
-
 Instructions:
 (1) These scripts run in R, a general use coding language and environment. If you are unfamiliar with R, start here (https://cran.r-project.org/) and install both R and R-Studio (https://www.rstudio.com/products/rstudio/download/) on your computer. Both are free.
 

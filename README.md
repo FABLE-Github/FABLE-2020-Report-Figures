@@ -16,11 +16,11 @@ Instructions:
 (3) All the necessary scripts and data are in the folder "FABLE 2020 Report Figures.zip" with the proper directory structure as called in the Master.R script. 
 
 (4) Open the script "//\~/yourpath/Programs/Master.R" in R-Studio and change:
-"path" to whatever you use for "~/yourpath/". E.g., 
+"path" to whatever you use for "\~/yourpath/". E.g., 
 change the following
 path <- "C:/Users/Clara Douzal/OneDrive - SDSN Association Paris/FABLE/FABLE 2020 Report Figures/" #edit this yourself
 to
-path <- "C:/~/yourpath/" #edit this yourself
+path <- "C:/\~/yourpath/" #edit this yourself
 
 (5) Line 13 of Master.R, copy/paste between the quote marks your country name ,from the list line 7 to 11.
  
@@ -28,4 +28,4 @@ path <- "C:/~/yourpath/" #edit this yourself
 
 (7) From lines 151 to 169 you can add "#" before the fct_Function that you do not wish to run
 
-(8) Your figures are stored automatically in individual figures folders in "~/yourpath/Outputs/" and the date automatically added to the file's name.
+(8) Your figures are stored automatically in individual figures folders in "\~/yourpath/Outputs/" and the date automatically added to the file's name.

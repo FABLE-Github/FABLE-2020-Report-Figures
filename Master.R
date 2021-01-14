@@ -31,7 +31,7 @@ conflict_prefer("summarise", "dplyr")
 path <- "C:/Users/Clara Douzal/OneDrive - SDSN Association Paris/FABLE/FABLE Report 2020 Figures/"#edit this yourself
 
 path_data <- paste0(path, "Data/")
-path_fct <- paste0(path, "/Programs/Functions Figures/")
+path_fct <- paste0(path, "/Programs/")
 outpath <- paste0(path, "Outputs/")
 
 # Data --------------------------------------------------------------------

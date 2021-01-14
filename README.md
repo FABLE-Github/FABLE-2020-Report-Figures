@@ -11,11 +11,11 @@ clara.douzal@unsdsn.org
 Instructions:
 (1) These scripts run in R, a general use coding language and environment. If you are unfamiliar with R, start here (https://cran.r-project.org/) and install both R and R-Studio (https://www.rstudio.com/products/rstudio/download/) on your computer. Both are free.
 
-(2) Copy the zipped folder "FABLE 2020 Report Figures.zip" and extract its contents into the directory of your choice, here called "~/yourpath/" for convenience. (If you are using Windows, this will look like "C://~/path/"; and if you're using a Mac, "User//~/path/".)
+(2) Copy the zipped folder "FABLE 2020 Report Figures.zip" and extract its contents into the directory of your choice, here called "//~/yourpath/" for convenience. (If you are using Windows, this will look like "C://~/path/"; and if you're using a Mac, "User//~/path/".)
 
 (3) All the necessary scripts and data are in the folder "FABLE 2020 Report Figures.zip" with the proper directory structure as called in the Master.R script. 
 
-(4) Open the script "~/yourpath/Programs/Master.R" in R-Studio and change:
+(4) Open the script "//~/yourpath/Programs/Master.R" in R-Studio and change:
 "path" to whatever you use for "~/yourpath/". E.g., 
 change the following
 path <- "C:/Users/Clara Douzal/OneDrive - SDSN Association Paris/FABLE/FABLE 2020 Report Figures/" #edit this yourself

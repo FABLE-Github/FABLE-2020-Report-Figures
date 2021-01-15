@@ -10,7 +10,7 @@
 # "Mexico", "Norway", "Russia", "Rwanda",
 # "Sweden", "SouthAfrica", "UK", "USA"
 
-country = "India" #HERE COPY/PASTE YOUR COUNTRY's NAME USING THE LIST ABOVE
+country = "YourCountryName" #HERE COPY/PASTE YOUR COUNTRY's NAME USING THE LIST ABOVE
 
 # Libraries ---------------------------------------------------------------
 

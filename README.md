@@ -9,7 +9,9 @@ Instructions:
 
 (3) Download the scripts "Master.R", "fct_Figure1.R", "fct_Figure2.R", "fct_Figure3.R", "fct_Figure4.R", "fct_Figure5.R", "fct_Figure6.R", 
 "fct_Figure7.R", "fct_Figure7_PieDonutFABLE.R", "fct_Figure8.R", "fct_Figure9.R", "fct_Figure10.R" from GitHub to your computer. The code assumes that the following directories are set up:
+
   (a) "yourpath/Programs/" —containing the "Master.R" file and .R files with the prefix "fct_Figure...".
+  
   (b) "yourpath/Data/" - contains the data from the folder "Data" you downloaded from "FABLE 2020 Report Figures.zip", and keep the folder structure that was in the .zip file.
   
 (4) Open the script "//\~/yourpath/Programs/Master.R" in R-Studio and change:
